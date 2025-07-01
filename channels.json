@@ -1269,6 +1269,3003 @@
     "channel_url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8"
   },
   {
+    "channel_id": "C213",
+    "serial_no": "213",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240807_0932597200407677878651042.png",
+    "channel_name": "Sha Tv",
+    "channel_url": "http://applelive.in/shatv/shatv.m3u8"
+  },
+  {
+    "channel_id": "C214",
+    "serial_no": "214",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1935237413617896258655107.png",
+    "channel_name": "PR Tv",
+    "channel_url": "http://applelive.in/prtv/prtv.m3u8"
+  },
+  {
+    "channel_id": "C215",
+    "serial_no": "215",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_193440751344494344473689.png",
+    "channel_name": "Thalapathy Tv",
+    "channel_url": "http://applelive.in/thalapathytv/thalapathytv.m3u8"
+  },
+  {
+    "channel_id": "C216",
+    "serial_no": "216",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1934016607986720592125187.png",
+    "channel_name": "Vasantham Tv",
+    "channel_url": "http://applelive.in/vasanthamtv/vasanthamtv.m3u8"
+  },
+  {
+    "channel_id": "C217",
+    "serial_no": "217",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1933117407168787568715691.png",
+    "channel_name": "Suryan Tv",
+    "channel_url": "http://applelive.in/suryantv/suryantv.m3u8"
+  },
+  {
+    "channel_id": "C218",
+    "serial_no": "218",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1234424766834015397778281.png",
+    "channel_name": "S Max UHD",
+    "channel_url": "http://applelive.in/smaxtv/smaxtv.m3u8"
+  },
+  {
+    "channel_id": "C219",
+    "serial_no": "219",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_005100115014949188833662.png",
+    "channel_name": "Digital",
+    "channel_url": "http://applelive.in/digitaltv/digitaltv.m3u8"
+  },
+  {
+    "channel_id": "C220",
+    "serial_no": "220",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0056194718769074512051348.png",
+    "channel_name": "Apple Media",
+    "channel_url": "http://applelive.in/appletv/appletv.m3u8"
+  },
+  {
+    "channel_id": "C221",
+    "serial_no": "221",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0058143761656163872202221.png",
+    "channel_name": "Riya Tv",
+    "channel_url": "http://applelive.in/riyatv/riyatv.m3u8"
+  },
+  {
+    "channel_id": "C222",
+    "serial_no": "222",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0118467600566896372655832.png",
+    "channel_name": "Win Vision",
+    "channel_url": "http://applelive.in/winvisiontv/winvisiontv.m3u8"
+  },
+  {
+    "channel_id": "C223",
+    "serial_no": "223",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240307_185859168162128473962258.png",
+    "channel_name": "GCV Tv",
+    "channel_url": "http://applelive.in/gcv/gcv.m3u8"
+  },
+  {
+    "channel_id": "C224",
+    "serial_no": "224",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "phoenix sports",
+    "channel_url": "http://applelive.in/phoenixsports/phoenixsports.m3u8"
+  },
+  {
+    "channel_id": "C225",
+    "serial_no": "225",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "gtv max",
+    "channel_url": "http://applelive.in/gtvmax/gtvmax.m3u8"
+  },
+  {
+    "channel_id": "C226",
+    "serial_no": "226",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240308_1346371023231073137635248.png",
+    "channel_name": "G Media",
+    "channel_url": "http://applelive.in/gmedia/gmedia.m3u8"
+  },
+  {
+    "channel_id": "C227",
+    "serial_no": "227",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "aarontv tv",
+    "channel_url": "http://applelive.in/aarontv/aarontv.m3u8"
+  },
+  {
+    "channel_id": "C228",
+    "serial_no": "228",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "starnettv",
+    "channel_url": "http://applelive.in/starnet/starnet.m3u8"
+  },
+  {
+    "channel_id": "C229",
+    "serial_no": "229",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240308_1344203293400314281004608.png",
+    "channel_name": "Dark Tv",
+    "channel_url": "http://applelive.in/darktv/darktv.m3u8"
+  },
+  {
+    "channel_id": "C230",
+    "serial_no": "230",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "islamic channel",
+    "channel_url": "https://play.applelive.in/islamicchannel/islamicchannel.m3u8"
+  },
+  {
+    "channel_id": "C231",
+    "serial_no": "231",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "koickalnews",
+    "channel_url": "https://play.applelive.in/koickalnews/koickalnews.m3u8"
+  },
+  {
+    "channel_id": "C232",
+    "serial_no": "232",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "mariyamatha tv",
+    "channel_url": "https://play.applelive.in/mariyamathatv/mariyamathatv.m3u8"
+  },
+  {
+    "channel_id": "C233",
+    "serial_no": "233",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/xqCrL7fN/image.png",
+    "channel_name": "THALAPATHY TV",
+    "channel_url": "https://play.applelive.in/thalapathytv/thalapathytv.m3u8"
+  },
+  {
+    "channel_id": "C234",
+    "serial_no": "234",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/YFCBVclNFznGAyBf1EdTdpeIvkf-poU1k_YiCRFJky3_1f-UZXiIho2cCobvgsno-wIA=w240-h480-rw",
+    "channel_name": "Sha TV",
+    "channel_url": "https://play.applelive.in/shatv/shatv.m3u8"
+  },
+  {
+    "channel_id": "C235",
+    "serial_no": "235",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "phoenix sports tv",
+    "channel_url": "https://play.applelive.in/phoenixsports/phoenixsports.m3u8"
+  },
+  {
+    "channel_id": "C236",
+    "serial_no": "236",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/CINl0i_yvq46zIk8evr5sgKDI60qGFQDbFRoKqMwtlOXDDuXzd9ou9UwT46enxSc3P0=w240-h480-rw",
+    "channel_name": "JC TV",
+    "channel_url": "https://play.applelive.in/jcvtvhd/jcvtvhd.m3u8"
+  },
+  {
+    "channel_id": "C237",
+    "serial_no": "237",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "anbudan tv",
+    "channel_url": "https://play.applelive.in/devatv/devatv.m3u8"
+  },
+  {
+    "channel_id": "C238",
+    "serial_no": "238",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "prime tv",
+    "channel_url": "https://rtmp.applelive.in/primetv/primetv/index.m3u8"
+  },
+  {
+    "channel_id": "C239",
+    "serial_no": "239",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "V TV",
+    "channel_url": "https://rtmp.applelive.in/vtv/vtv/index.m3u8"
+  },
+  {
+    "channel_id": "C240",
+    "serial_no": "240",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "prime TV",
+    "channel_url": "https://rtmp.applelive.in/primetv/primetv/index.m3u8"
+  },
+  {
+    "channel_id": "C241",
+    "serial_no": "241",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "jupitertamil tv",
+    "channel_url": "https://rtmp.applelive.in/esprimetv/esprimetv/index.m3u8"
+  },
+  {
+    "channel_id": "C242",
+    "serial_no": "242",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "twoc tv",
+    "channel_url": "https://rtmp.applelive.in/twoctv/twoctv/index.m3u8"
+  },
+  {
+    "channel_id": "C243",
+    "serial_no": "243",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "v tv",
+    "channel_url": "https://rtmp.applelive.in/vtv/vtv/index.m3u8"
+  },
+  {
+    "channel_id": "C244",
+    "serial_no": "244",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1738842096.jfif",
+    "channel_name": "Boys TV",
+    "channel_url": "https://rtmp.applelive.in/boystv/boystv/index.m3u8"
+  },
+  {
+    "channel_id": "C245",
+    "serial_no": "245",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/5BbVPm_jHSHPVY3XLhfYjpJJtXi1qVV3jlJ9i-cTE0gckC_LSEBKftLgU6uX_UMXgQ=w240-h480-rw",
+    "channel_name": "Kumari TV",
+    "channel_url": "https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8"
+  },
+  {
+    "channel_id": "C246",
+    "serial_no": "246",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1229143149359611319687383.png",
+    "channel_name": "20240806 1229143149359611319687383",
+    "channel_url": "https://live.applelive.in/vasanthtv/vasanthtv.m3u8"
+  },
+  {
+    "channel_id": "C247",
+    "serial_no": "247",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240308_134829212056601576797114.png",
+    "channel_name": "Hai Tv",
+    "channel_url": "http://live.applelive.in/haitv/haitv.m3u8"
+  },
+  {
+    "channel_id": "C248",
+    "serial_no": "248",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0905422606673326774585906.png",
+    "channel_name": "Endhiran Tv",
+    "channel_url": "https://live.applelive.in/enthirantv/enthirantv/index.m3u8"
+  },
+  {
+    "channel_id": "C249",
+    "serial_no": "249",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0058455613013844568255331.png",
+    "channel_name": "Jeyson Tv",
+    "channel_url": "http://jeyson.applelive.in/jeysontv/jeysontv.m3u8"
+  },
+  {
+    "channel_id": "C250",
+    "serial_no": "250",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0059154570795803220664691.png",
+    "channel_name": "JJ Max",
+    "channel_url": "http://jeyson.applelive.in/jjmax/jjmax.m3u8"
+  },
+  {
+    "channel_id": "C251",
+    "serial_no": "251",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0057516217128450988478871.png",
+    "channel_name": "Garudan Tv",
+    "channel_url": "http://garudatv.applelive.in/hls/garudantv.m3u8"
+  },
+  {
+    "channel_id": "C252",
+    "serial_no": "252",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0119211564073036751123273.png",
+    "channel_name": "Image Tv",
+    "channel_url": "http://eagletv.applelive.in/aonetv/aonetv.m3u8"
+  },
+  {
+    "channel_id": "C253",
+    "serial_no": "253",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0057248584349448265842086.png",
+    "channel_name": "Cheran Tv",
+    "channel_url": "http://ser2.applelive.in/cherantv/cherantv.m3u8"
+  },
+  {
+    "channel_id": "C254",
+    "serial_no": "254",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/0p3L2BvR/DEVA-LOGO.png",
+    "channel_name": "DEVA TV",
+    "channel_url": "http://devatv.applelive.in/devatv/devatv.m3u8"
+  },
+  {
+    "channel_id": "C255",
+    "serial_no": "255",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "anbudan tv",
+    "channel_url": "https://cloud1.applelive.in/anbudantv/anbudantv/index.m3u8"
+  },
+  {
+    "channel_id": "C256",
+    "serial_no": "256",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240317_1043527339753810629982378.png",
+    "channel_name": "Suriya Tv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8"
+  },
+  {
+    "channel_id": "C257",
+    "serial_no": "257",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240317_0936251793115618772056183.png",
+    "channel_name": "Udhayam Tv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8"
+  },
+  {
+    "channel_id": "C258",
+    "serial_no": "258",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240313_1346563934669474753084659.png",
+    "channel_name": "Sun Star",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8"
+  },
+  {
+    "channel_id": "C259",
+    "serial_no": "259",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240327_0537416876478957766818505.png",
+    "channel_name": "MP TV",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8"
+  },
+  {
+    "channel_id": "C260",
+    "serial_no": "260",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/02BRjbm/image-0-Ly-n-KSJ-transformed-photoaidcom-cropped.png",
+    "channel_name": "SRV TV",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8"
+  },
+  {
+    "channel_id": "C261",
+    "serial_no": "261",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240315_0416082466851709010682947.png",
+    "channel_name": "SLS Tv Hosur",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8"
+  },
+  {
+    "channel_id": "C262",
+    "serial_no": "262",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240307_1209052675845711979219484.png",
+    "channel_name": "VDS Tv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8"
+  },
+  {
+    "channel_id": "C263",
+    "serial_no": "263",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0102092909771632092684686.png",
+    "channel_name": "Selfie Tv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/selfiemedia/selfiemedia.m3u8"
+  },
+  {
+    "channel_id": "C264",
+    "serial_no": "264",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/senthil/senthil.m3u8"
+  },
+  {
+    "channel_id": "C265",
+    "serial_no": "265",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8"
+  },
+  {
+    "channel_id": "C266",
+    "serial_no": "266",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8"
+  },
+  {
+    "channel_id": "C267",
+    "serial_no": "267",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8"
+  },
+  {
+    "channel_id": "C268",
+    "serial_no": "268",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Mmmdu",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/mmmdu/mmmdu.m3u8"
+  },
+  {
+    "channel_id": "C269",
+    "serial_no": "269",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Leetv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8"
+  },
+  {
+    "channel_id": "C270",
+    "serial_no": "270",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Pink",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/pink/pink.m3u8"
+  },
+  {
+    "channel_id": "C271",
+    "serial_no": "271",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Senthur",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/senthur/senthur.m3u8"
+  },
+  {
+    "channel_id": "C272",
+    "serial_no": "272",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Red",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/red/red.m3u8"
+  },
+  {
+    "channel_id": "C273",
+    "serial_no": "273",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sakthi",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8"
+  },
+  {
+    "channel_id": "C274",
+    "serial_no": "274",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Annai",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/annai/annai.m3u8"
+  },
+  {
+    "channel_id": "C275",
+    "serial_no": "275",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Gdtv",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/gdtv/gdtv.m3u8"
+  },
+  {
+    "channel_id": "C276",
+    "serial_no": "276",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Suriyan",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8"
+  },
+  {
+    "channel_id": "C277",
+    "serial_no": "277",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Stvchannel",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8"
+  },
+  {
+    "channel_id": "C278",
+    "serial_no": "278",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Moon",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8"
+  },
+  {
+    "channel_id": "C279",
+    "serial_no": "279",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Anbu",
+    "channel_url": "http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8"
+  },
+  {
+    "channel_id": "C280",
+    "serial_no": "280",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240327_0610292164648413946528873.png",
+    "channel_name": "MDN TV",
+    "channel_url": "https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8"
+  },
+  {
+    "channel_id": "C281",
+    "serial_no": "281",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240314_0432591689491783065882839.png",
+    "channel_name": "Annai Tv Chennai",
+    "channel_url": "http://annaitv.livebox.co.in/annailivehls/live.m3u8"
+  },
+  {
+    "channel_id": "C282",
+    "serial_no": "282",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240315_2114196845832868490079177.png",
+    "channel_name": "Irattai Pathai Tv",
+    "channel_url": "https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8"
+  },
+  {
+    "channel_id": "C283",
+    "serial_no": "283",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240227_2149073569143494629611516.png",
+    "channel_name": "King TV",
+    "channel_url": "https://account26.livebox.co.in/kinghls/live.m3u8"
+  },
+  {
+    "channel_id": "C284",
+    "serial_no": "284",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240301_0038213835560881142704349.jpg",
+    "channel_name": "Vidiyal Tv",
+    "channel_url": "https://account11.livebox.co.in/vidyaltvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C285",
+    "serial_no": "285",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240328_0707478441275345469539566.png",
+    "channel_name": "Akash Tv",
+    "channel_url": "https://account2.livebox.co.in/AkashTvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C286",
+    "serial_no": "286",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://bx-tv.com/wp-content/uploads/2023/12/mn-music.jpg",
+    "channel_name": "MN MUSIC",
+    "channel_url": "https://mntv.livebox.co.in/musichls/live.m3u8"
+  },
+  {
+    "channel_id": "C287",
+    "serial_no": "287",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/489_d_EoMq8sItl2X29p1oYxiavjlXIgL06kwXPRI87WZ_hW0r_XNyJwbGB1oz8uozg=w240-h480-rw",
+    "channel_name": "Kovai TV",
+    "channel_url": "https://account31.livebox.co.in/Kovaitvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C288",
+    "serial_no": "288",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://admin.ragatvchannel.com/upload/logo/1724859945_raga_logo.png",
+    "channel_name": "Raga Tv",
+    "channel_url": "https://ragatv.livebox.co.in/Ragatvhls/ragatvlive.m3u8"
+  },
+  {
+    "channel_id": "C289",
+    "serial_no": "289",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Trichy Mail Tv",
+    "channel_url": "rtmp://stream2.livebox.co.in:1935/MMedia/live"
+  },
+  {
+    "channel_id": "C290",
+    "serial_no": "290",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrK1Dc3NNsNChp0fLhDMbLUgFvaB72aAqbl--Uf6eyLJChrOAM",
+    "channel_name": "D Bhakthi",
+    "channel_url": "https://dtv.livebox.co.in/DBhaktihls/Live.m3u8"
+  },
+  {
+    "channel_id": "C291",
+    "serial_no": "291",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/RLVmFCKC4EM22zjHW1FUNUaAfTAlEQB6jvcFjd9rGLsmkqYsIo7T734IK4QYR9X_PDg=w240-h480-rw",
+    "channel_name": "D TV",
+    "channel_url": "https://dtv.livebox.co.in/Dtvhls/Live.m3u8"
+  },
+  {
+    "channel_id": "C292",
+    "serial_no": "292",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "MN music",
+    "channel_url": "rtmp://mntv.livebox.co.in:1935/music/live"
+  },
+  {
+    "channel_id": "C293",
+    "serial_no": "293",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "MN Music Link 3",
+    "channel_url": "http://mntv.livebox.co.in/musichls/live.m3u8"
+  },
+  {
+    "channel_id": "C294",
+    "serial_no": "294",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "MN TV",
+    "channel_url": "http://mntv.livebox.co.in/mntvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C295",
+    "serial_no": "295",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sivan Tv",
+    "channel_url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8"
+  },
+  {
+    "channel_id": "C296",
+    "serial_no": "296",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Life tv",
+    "channel_url": "http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8"
+  },
+  {
+    "channel_id": "C297",
+    "serial_no": "297",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Joy TV",
+    "channel_url": "http://joytv.livebox.co.in/joytvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C298",
+    "serial_no": "298",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "SK TV",
+    "channel_url": "http://account14.livebox.co.in/SKTELEVISIONhls/live.m3u8"
+  },
+  {
+    "channel_id": "C299",
+    "serial_no": "299",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Smart kovai TV",
+    "channel_url": "https://smartnetworks.livebox.co.in/smarttvcbehls/live.m3u8"
+  },
+  {
+    "channel_id": "C300",
+    "serial_no": "300",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Webadunga TV",
+    "channel_url": "https://account21.livebox.co.in/webadugatvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C301",
+    "serial_no": "301",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "RTV",
+    "channel_url": "https://account7.livebox.co.in/RTVhls/live.m3u8"
+  },
+  {
+    "channel_id": "C302",
+    "serial_no": "302",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "VTV",
+    "channel_url": "https://stream6.livebox.co.in/vtvplushls/live.m3u8"
+  },
+  {
+    "channel_id": "C303",
+    "serial_no": "303",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "MANASU TV",
+    "channel_url": "https://stream6.livebox.co.in/manasutvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C304",
+    "serial_no": "304",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "VEDHA TV",
+    "channel_url": "http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C305",
+    "serial_no": "305",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "JJ TV",
+    "channel_url": "http://jaaltv.livebox.co.in/jjtvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C306",
+    "serial_no": "306",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "WAY TV",
+    "channel_url": "http://waytv.livebox.co.in/waytvhls/waytv.m3u8"
+  },
+  {
+    "channel_id": "C307",
+    "serial_no": "307",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Universe TV",
+    "channel_url": "https://account24.livebox.co.in/UNIVERSETVhls/live.m3u8"
+  },
+  {
+    "channel_id": "C308",
+    "serial_no": "308",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "OSCAR TV",
+    "channel_url": "https://oscartv.livebox.co.in/oscarchannelbrocasthls/oscar.m3u8"
+  },
+  {
+    "channel_id": "C309",
+    "serial_no": "309",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Verbum Not 24/7",
+    "channel_url": "https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8"
+  },
+  {
+    "channel_id": "C310",
+    "serial_no": "310",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240223_1447261974648814809978949.png",
+    "channel_name": "Ridsys Tv",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream242/index.m3u8"
+  },
+  {
+    "channel_id": "C311",
+    "serial_no": "311",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0009219157996054116621392.png",
+    "channel_name": "AJK 4K TV",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream238/index.m3u8"
+  },
+  {
+    "channel_id": "C312",
+    "serial_no": "312",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/05/20240513_0617315360788591796402890.png",
+    "channel_name": "Sarah Movie Tv",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream232/index.m3u8"
+  },
+  {
+    "channel_id": "C313",
+    "serial_no": "313",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240223_1502362611035553233464830.png",
+    "channel_name": "Shaun Kids Tv",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream232/index.m3u8"
+  },
+  {
+    "channel_id": "C314",
+    "serial_no": "314",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240222_2340229088325348504502169.png",
+    "channel_name": "JVR TV",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream125/index.m3u8"
+  },
+  {
+    "channel_id": "C315",
+    "serial_no": "315",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240222_1308307776810734620895314.png",
+    "channel_name": "Mercury TV",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream193/index.m3u8"
+  },
+  {
+    "channel_id": "C316",
+    "serial_no": "316",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240222_2343061442136840944010783.png",
+    "channel_name": "New Rina TV",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream185/index.m3u8"
+  },
+  {
+    "channel_id": "C317",
+    "serial_no": "317",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240222_2358049091448305493000541.png",
+    "channel_name": "AMN Tv",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream144/index.m3u8"
+  },
+  {
+    "channel_id": "C318",
+    "serial_no": "318",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240222_2345221854088499164740924.png",
+    "channel_name": "Rainbow TV",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream188/index.m3u8"
+  },
+  {
+    "channel_id": "C319",
+    "serial_no": "319",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240222_2358487840560919050377460.png",
+    "channel_name": "Kamala Media",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream191/index.m3u8"
+  },
+  {
+    "channel_id": "C320",
+    "serial_no": "320",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0005537945016768465502785.png",
+    "channel_name": "Oscar TV",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream107/index.m3u8"
+  },
+  {
+    "channel_id": "C321",
+    "serial_no": "321",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0008368945130312933236521.png",
+    "channel_name": "Supreme TV",
+    "channel_url": "http://ptuf.ridsys.in/riptv/live/stream208/index.m3u8"
+  },
+  {
+    "channel_id": "C322",
+    "serial_no": "322",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "MV Digital",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream135/index.m3u8"
+  },
+  {
+    "channel_id": "C323",
+    "serial_no": "323",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "S Media",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream127/index.m3u8"
+  },
+  {
+    "channel_id": "C324",
+    "serial_no": "324",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Skysat HD",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream132/index.m3u8"
+  },
+  {
+    "channel_id": "C325",
+    "serial_no": "325",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Neyam TV",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream129/index.m3u8"
+  },
+  {
+    "channel_id": "C326",
+    "serial_no": "326",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Nammavar TV",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream130/index.m3u8"
+  },
+  {
+    "channel_id": "C327",
+    "serial_no": "327",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Raghava Vision",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream126/index.m3u8"
+  },
+  {
+    "channel_id": "C328",
+    "serial_no": "328",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Eye HD",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream125/index.m3u8"
+  },
+  {
+    "channel_id": "C329",
+    "serial_no": "329",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sakthi TV",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream102/index.m3u8"
+  },
+  {
+    "channel_id": "C330",
+    "serial_no": "330",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Jai Krishna TV",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream186/index.m3u8"
+  },
+  {
+    "channel_id": "C331",
+    "serial_no": "331",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Apple TV",
+    "channel_url": "http://ptu.ridsys.in/riptv/live/stream128/index."
+  },
+  {
+    "channel_id": "C332",
+    "serial_no": "332",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240621_0224205030319816937382739.png",
+    "channel_name": "20240621 0224205030319816937382739",
+    "channel_url": "http://harishtv.phoenixcreations.online:1935/harishtv/harishtv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C333",
+    "serial_no": "333",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240226_1102107808684431871144503.png",
+    "channel_name": "N Tv",
+    "channel_url": "http://ntv.phoenixcreations.online:1935/ntv/ntv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C334",
+    "serial_no": "334",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/04/20240412_2209299004890499440054628.png",
+    "channel_name": "Anu Tv",
+    "channel_url": "http://anutv.phoenixcreations.online:1935/anutv/anutv/chunklist_w1925547055.m3u8"
+  },
+  {
+    "channel_id": "C335",
+    "serial_no": "335",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/l06iyyboWjfU13_hZe2fSTjNHtlTZ12YqFcQmwkJF68rLuL_cg6qRykYdiEv8H6tKg=w240-h480-rw",
+    "channel_name": "Thendral Tv",
+    "channel_url": "http://thendraltv.phoenixcreations.online/thendraltv/thendraltv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C336",
+    "serial_no": "336",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240226_1452586755735113529101170.png",
+    "channel_name": "Sendhur Tv",
+    "channel_url": "http://senthurtv.phoenixcreations.online/senthurtv/senthurtv/index.m3u8"
+  },
+  {
+    "channel_id": "C337",
+    "serial_no": "337",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1359211066685104800433990.png",
+    "channel_name": "SAR Tv",
+    "channel_url": "http://sartv2.phoenixcreations.online:1935/sartv2/sartv2/playlist.m3u8"
+  },
+  {
+    "channel_id": "C338",
+    "serial_no": "338",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0933223978947985029830631.png",
+    "channel_name": "Aadhavan Tv",
+    "channel_url": "http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C339",
+    "serial_no": "339",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/Y1Ep3pQQX7hmPAJqHFAHUW3S9loYRAcGqW5atgySe7k4PGrN60jz1s1HxNzLedpVJiU=w240-h480-rw",
+    "channel_name": "APS Tv",
+    "channel_url": "http://aps.phoenixcreations.online/apstv/apstv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C340",
+    "serial_no": "340",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/c0QQntk1Dh1qoRte2HUYdVdiue-HePcAU8jq2srS0lEpTrDQ3EziTdaRj0PUm4KJlGs=w240-h480-rw",
+    "channel_name": "Top Tv",
+    "channel_url": "http://toptv.phoenixcreations.online/toptv/toptv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C341",
+    "serial_no": "341",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1154427694313931406774079.png",
+    "channel_name": "Phoenix Tv",
+    "channel_url": "http://phoenix.phoenixcreations.online:1935/phoenix/phoenix/index.m3u8"
+  },
+  {
+    "channel_id": "C342",
+    "serial_no": "342",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240307_1216545136253521281095083.png",
+    "channel_name": "SS Tv",
+    "channel_url": "http://sstv.phoenixcreations.online:1935/sstv/sstv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C343",
+    "serial_no": "343",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/M8aznVOZ1lyqU9dKy34x_WguhPLLieeLxkfM3yfoi4i1fszevAKRAA89anSqr_eWZ-Gq=w240-h480-rw",
+    "channel_name": "Sky Media",
+    "channel_url": "http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8"
+  },
+  {
+    "channel_id": "C344",
+    "serial_no": "344",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240317_1556234352065817057057468.png",
+    "channel_name": "Sasi Tv",
+    "channel_url": "http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/chunklist_w1757886321.m3u8"
+  },
+  {
+    "channel_id": "C345",
+    "serial_no": "345",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240328_0722482818896276821046988.png",
+    "channel_name": "Mithra Tv",
+    "channel_url": "http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C346",
+    "serial_no": "346",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Roja TV",
+    "channel_url": "http://rojatv.phoenixcreations.online:1935/rojatv/rojatv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C347",
+    "serial_no": "347",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/x49J5cH-0yB4DYuF7gPv2ADihZ8Dg_VveTSTgnWflheHxzDiJMgt1wNUmvAvWGSicDk=w240-h480-rw",
+    "channel_name": "Khila TV",
+    "channel_url": "http://khilatv.phoenixcreations.online/khilatv/khilatv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C348",
+    "serial_no": "348",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vetri Tv",
+    "channel_url": "http://vetritv.phoenixcreations.online:1935/vetritv/vetritv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C349",
+    "serial_no": "349",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Madhan TV",
+    "channel_url": "http://madhantv.phoenixcreations.online:1935/madhantv/madhantv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C350",
+    "serial_no": "350",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Velan TV",
+    "channel_url": "http://velantv.phoenixcreations.online:1935/velantv/velantv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C351",
+    "serial_no": "351",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/X_vIkiQs3knoHDyeyTFs35jyICkM8c_s4jqW3pcC49PsnOapF2gtoMGzez4XkQtmU7k=w240-h480-rw",
+    "channel_name": "C TV",
+    "channel_url": "http://ctv.phoenixcreations.online/ctv/ctv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C352",
+    "serial_no": "352",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/mqkIFWL7AhKzgl-W9Lccf4SwmYTdE_1xMhMwhQOtGbMRNAUsJQ4_ZPp-yhgOM9XfWQ=w240-h480-rw",
+    "channel_name": "Cinema TV Virudhunagar",
+    "channel_url": "http://cinema24tv.phoenixcreations.online/cinema24tv/cinema24tv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C353",
+    "serial_no": "353",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/76dafuAsQLWKWQAHy0HiFpxo9ZaYWuEyjAUwqjIyNzzr8z7Z-W5LlD8MNnODt52J2iQ=w240-h480-rw",
+    "channel_name": "Pugal TV",
+    "channel_url": "http://pugaltv.phoenixcreations.online/pugaltv/pugaltv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C354",
+    "serial_no": "354",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/I2CvtQTy83lEsk85LtnzJhIsDNEyTZxbnOXXILNw6cH2WFw2h-aqUnEJlillThhC3Gc=w240-h480-rw",
+    "channel_name": "Punnagai Desam TV",
+    "channel_url": "http://punnagaidesamtv.phoenixcreations.online/punnagaidesamtv/punnagaidesamtv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C355",
+    "serial_no": "355",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w240-h480-rw",
+    "channel_name": "Phoenix TV",
+    "channel_url": "http://phoenix.phoenixcreations.online/phoenix/phoenix/playlist.m3u8"
+  },
+  {
+    "channel_id": "C356",
+    "serial_no": "356",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/qjv0DIClbsKztg8BGRBKf0Pnx53VegQKIyXivM4uoLfD1G35VcyVFgzHqbOZBM3USthp=w240-h480-rw",
+    "channel_name": "Aadhavan Tamil TV",
+    "channel_url": "http://aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8"
+  },
+  {
+    "channel_id": "C357",
+    "serial_no": "357",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/KTB9os-SnNFUrOfcPb36sJfcJmGtEi-VnKuw_20Aq9yv_j9GdPsFONODvtTN11Oxc1Cp=w240-h480-rw",
+    "channel_name": "JPRIYA TV",
+    "channel_url": "http://priyatv.phoenixcreations.online/priyatv/priyatv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C358",
+    "serial_no": "358",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/PBXlTGaua0z8KSGfcl5Wlkv2Bkr2eGqCWHVj0POSciXosMmHHNalH9jU8XSv-8-3yTiQ=w240-h480-rw",
+    "channel_name": "N TV",
+    "channel_url": "http://ntv.phoenixcreations.online/ntv/ntv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C359",
+    "serial_no": "359",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/mv4jpeF5UsjK42qemWFUefrTsj5EAr6USSr1ZKI8Sm0HtSiowA5ha5BbcGsWM6mXC4Mp=w240-h480-rw",
+    "channel_name": "RK TV",
+    "channel_url": "http://rktv.phoenixcreations.online/rktv/rktv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C360",
+    "serial_no": "360",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/YRncDL2DT0MkTyApnrhl5asZLA919Pl0Fk-6u6D77LIrccdkUaYmycB6J7VWwxUagfA=w240-h480-rw",
+    "channel_name": "Run TV",
+    "channel_url": "http://runtv.phoenixcreations.online/runtv/runtv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C361",
+    "serial_no": "361",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/5Q-fJ6hP384tEgEen_RuPg0Q1iq_gwHrs2tjxd4db32MtJCaI2aUfBlDegnw9QTvZbIV=w240-h480-rw",
+    "channel_name": "Jose tv",
+    "channel_url": "http://josetv.phoenixcreations.online/josetv/josetv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C362",
+    "serial_no": "362",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Subin TV",
+    "channel_url": "http://subintv.phoenixcreations.online:1935/subintv/subintv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C363",
+    "serial_no": "363",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Thendral HD TV",
+    "channel_url": "http://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C364",
+    "serial_no": "364",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sky media TV",
+    "channel_url": "http://skymedia.phoenixcreations.online:1935/skyhls/skyhls/playlist.m3u8"
+  },
+  {
+    "channel_id": "C365",
+    "serial_no": "365",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "SAR 2 TV",
+    "channel_url": "http://sartv2.phoenixcreations.online:1935/sartv2/sartv2/playlist.m3u8"
+  },
+  {
+    "channel_id": "C366",
+    "serial_no": "366",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Janani TV",
+    "channel_url": "http://jananitv.phoenixcreations.online:1935/jananitv/jananitv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C367",
+    "serial_no": "367",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "JP Music TV",
+    "channel_url": "http://jpmusic.phoenixcreations.online:1935/jpmusic/jpmusic/playlist.m3u8"
+  },
+  {
+    "channel_id": "C368",
+    "serial_no": "368",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "OM Tamil TV",
+    "channel_url": "http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C369",
+    "serial_no": "369",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "G TV",
+    "channel_url": "http://gtv.phoenixcreations.online:1935/gtv/gtv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C370",
+    "serial_no": "370",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sachein TV",
+    "channel_url": "http://sacheintv.phoenixcreations.online:1935/sacheintv/sacheintv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C371",
+    "serial_no": "371",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "MR TV",
+    "channel_url": "http://mrtv.phoenixcreations.online:1935/mrtv/mrtv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C372",
+    "serial_no": "372",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "JENIFER TVHD",
+    "channel_url": "http://jenifertv.phoenixcreations.online:1935/live/jenifertv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C373",
+    "serial_no": "373",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vedha TV",
+    "channel_url": "http://vedhatv.phoenixcreations.online:1935/vedhatv/vedhatv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C374",
+    "serial_no": "374",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Jaguar TV",
+    "channel_url": "http://jaguarht.phoenixcreations.online:1935/jaguarht/jaguarht/playlist.m3u8"
+  },
+  {
+    "channel_id": "C375",
+    "serial_no": "375",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Aaryaatv",
+    "channel_url": "http://aaryaa.sscloud7.in:1935/live/aaryaatv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C376",
+    "serial_no": "376",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vinothtv",
+    "channel_url": "https://server.sscloud7.in/live/vinothtv/index.m3u8"
+  },
+  {
+    "channel_id": "C377",
+    "serial_no": "377",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://live.sscloud7.com/hls/livesaitv.m3u8"
+  },
+  {
+    "channel_id": "C378",
+    "serial_no": "378",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Malartv",
+    "channel_url": "https://sscloud7.com/live/malartv/index.m3u8"
+  },
+  {
+    "channel_id": "C379",
+    "serial_no": "379",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Bharathitv",
+    "channel_url": "https://server.sscloud7.in/live/bharathitv/index.m3u8"
+  },
+  {
+    "channel_id": "C380",
+    "serial_no": "380",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "A2Atv",
+    "channel_url": "https://live.sscloud7.in/live/a2atv/index.m3u8"
+  },
+  {
+    "channel_id": "C381",
+    "serial_no": "381",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hitechtv",
+    "channel_url": "https://server.notvstream.in/hitechtv/hitechtv.m3u8"
+  },
+  {
+    "channel_id": "C382",
+    "serial_no": "382",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Mptv",
+    "channel_url": "https://stream.sscloud7.in/live/mptv/index.m3u8"
+  },
+  {
+    "channel_id": "C383",
+    "serial_no": "383",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vishiltv2",
+    "channel_url": "https://stream.sscloud7.in/live/vishiltv2/index.m3u8"
+  },
+  {
+    "channel_id": "C384",
+    "serial_no": "384",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Thendraltv",
+    "channel_url": "https://sscloud7.com/live/thendraltv/index.m3u8"
+  },
+  {
+    "channel_id": "C385",
+    "serial_no": "385",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tamiltv",
+    "channel_url": "https://stream.sscloud7.in/live/tamiltv/index.m3u8"
+  },
+  {
+    "channel_id": "C386",
+    "serial_no": "386",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Suriyantv",
+    "channel_url": "https://sscloud7.com/live/suriyantv/index.m3u8"
+  },
+  {
+    "channel_id": "C387",
+    "serial_no": "387",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tracks V1A1",
+    "channel_url": "https://server.sscloud7.in/live/sshd/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "channel_id": "C388",
+    "serial_no": "388",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Raghultv",
+    "channel_url": "http://alk.sscloud7.in:1935/live/raghultv/index.m3u8"
+  },
+  {
+    "channel_id": "C389",
+    "serial_no": "389",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Malligai",
+    "channel_url": "https://server.sscloud7.in/live/malligai/index.m3u8"
+  },
+  {
+    "channel_id": "C390",
+    "serial_no": "390",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Anandhamtv",
+    "channel_url": "https://live1.sscloud7.com/live/anandhamtv/index.m3u8"
+  },
+  {
+    "channel_id": "C391",
+    "serial_no": "391",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Ntv",
+    "channel_url": "https://stream.sscloud7.in/live/ntv/index.m3u8"
+  },
+  {
+    "channel_id": "C392",
+    "serial_no": "392",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Malartv",
+    "channel_url": "https://stream.sscloud7.in/live/malartv/index.m3u8"
+  },
+  {
+    "channel_id": "C393",
+    "serial_no": "393",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Smileytv",
+    "channel_url": "https://live1.sscloud7.com/live/smileytv/index.m3u8"
+  },
+  {
+    "channel_id": "C394",
+    "serial_no": "394",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Suryatv",
+    "channel_url": "https://live.sscloud7.in/live/suryatv/index.m3u8"
+  },
+  {
+    "channel_id": "C395",
+    "serial_no": "395",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Devitv",
+    "channel_url": "https://stream.sscloud7.in/live/devitv/index.m3u8"
+  },
+  {
+    "channel_id": "C396",
+    "serial_no": "396",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Rocktv",
+    "channel_url": "https://server.sscloud7.in/live/rocktv/index.m3u8"
+  },
+  {
+    "channel_id": "C397",
+    "serial_no": "397",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Mayuritvtvl",
+    "channel_url": "https://server.sscloud7.in/mayuritvtvl/mayuritvtvl/index.m3u8"
+  },
+  {
+    "channel_id": "C398",
+    "serial_no": "398",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tracks V1A1",
+    "channel_url": "https://stream.sscloud7.in/live/vishiltv1/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "channel_id": "C399",
+    "serial_no": "399",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Subintv",
+    "channel_url": "https://sscloud7.com/live/subintv/index.m3u8"
+  },
+  {
+    "channel_id": "C400",
+    "serial_no": "400",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Livepcv",
+    "channel_url": "http://pcvtv.sscloud7.com/live/livepcv/index.m3u8"
+  },
+  {
+    "channel_id": "C401",
+    "serial_no": "401",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vishiltv1",
+    "channel_url": "https://stream.sscloud7.in/live/vishiltv1/index.m3u8"
+  },
+  {
+    "channel_id": "C402",
+    "serial_no": "402",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Isaihd",
+    "channel_url": "https://server.sscloud7.in/isaihd/isaihd/index.m3u8"
+  },
+  {
+    "channel_id": "C403",
+    "serial_no": "403",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Kingtv",
+    "channel_url": "http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8"
+  },
+  {
+    "channel_id": "C404",
+    "serial_no": "404",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Marantv",
+    "channel_url": "http://server.sscloud7.in/marantv/marantv/index.m3u8"
+  },
+  {
+    "channel_id": "C405",
+    "serial_no": "405",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Aasaitv",
+    "channel_url": "http://server.sscloud7.in/aasaitv/aasaitv/index.m3u8"
+  },
+  {
+    "channel_id": "C406",
+    "serial_no": "406",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sritv1",
+    "channel_url": "https://live.sscloud7.in/live/sritv1/index.m3u8"
+  },
+  {
+    "channel_id": "C407",
+    "serial_no": "407",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Ddtv",
+    "channel_url": "https://stream.sscloud7.in/live/ddtv/index.m3u8"
+  },
+  {
+    "channel_id": "C408",
+    "serial_no": "408",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vanitvhd",
+    "channel_url": "https://stream.sscloud7.in/live/vanitvhd/index.m3u8"
+  },
+  {
+    "channel_id": "C409",
+    "serial_no": "409",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vinayagatv",
+    "channel_url": "https://stream.sscloud7.in/live/vinayagatv/index.m3u8"
+  },
+  {
+    "channel_id": "C410",
+    "serial_no": "410",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Omsakthitv",
+    "channel_url": "https://sscloud7.com/live/omsakthitv/index.m3u8"
+  },
+  {
+    "channel_id": "C411",
+    "serial_no": "411",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Liveroyaltv",
+    "channel_url": "https://live.sscloud7.com/liveroyaltv.m3u8"
+  },
+  {
+    "channel_id": "C412",
+    "serial_no": "412",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://sscloud7.com/hls/galaxytv.m3u8"
+  },
+  {
+    "channel_id": "C413",
+    "serial_no": "413",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://live1.sscloud7.com/hls/nrstv.m3u8"
+  },
+  {
+    "channel_id": "C414",
+    "serial_no": "414",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://live.sscloud7.com/hls/jostv.m3u8"
+  },
+  {
+    "channel_id": "C415",
+    "serial_no": "415",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Yathratv",
+    "channel_url": "https://sscloud7.com/yathratv.m3u8"
+  },
+  {
+    "channel_id": "C416",
+    "serial_no": "416",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://stream.sscloud7.com/hls/vetritv.m3u8"
+  },
+  {
+    "channel_id": "C417",
+    "serial_no": "417",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://sscloud7.com/hls/amntv.m3u8"
+  },
+  {
+    "channel_id": "C418",
+    "serial_no": "418",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://live1.sscloud7.com/hls/vedhatv.m3u8"
+  },
+  {
+    "channel_id": "C419",
+    "serial_no": "419",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://stream.sscloud7.com/hls/krishantv.m3u8"
+  },
+  {
+    "channel_id": "C420",
+    "serial_no": "420",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/3a24b7d3-fc2f-4360-b21d-a279463776a9.webp",
+    "channel_name": "3A24B7D3 Fc2F 4360 B21D A279463776A9.Webp",
+    "channel_url": "https://stream.sscloud7.com/hls/shaktitv.m3u8"
+  },
+  {
+    "channel_id": "C421",
+    "serial_no": "421",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "http://tnm3u.live/icon/tamil/local/pcv-channel.png",
+    "channel_name": "PCV TV",
+    "channel_url": "http://pcvtv.sscloud7.com/live/livepcv/index.m3u8"
+  },
+  {
+    "channel_id": "C422",
+    "serial_no": "422",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "rock tv",
+    "channel_url": "http://rocktv.sscloud7.com/live/rocktv/index.m3u8"
+  },
+  {
+    "channel_id": "C423",
+    "serial_no": "423",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "http://tnm3u.live/icon/tamil/local/malligai.png",
+    "channel_name": "Malligai TV",
+    "channel_url": "https://server.sscloud7.in/live/malligai/index.m3u8"
+  },
+  {
+    "channel_id": "C424",
+    "serial_no": "424",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "http://tnm3u.live/icon/tamil/local/devitv.png",
+    "channel_name": "Devi TV",
+    "channel_url": "https://stream.sscloud7.in/live/devitv/index.m3u8"
+  },
+  {
+    "channel_id": "C425",
+    "serial_no": "425",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "http://tnm3u.live/icon/tamil/local/sstv.png",
+    "channel_name": "SS HD",
+    "channel_url": "https://server.sscloud7.in/live/sshd/index.m3u8"
+  },
+  {
+    "channel_id": "C426",
+    "serial_no": "426",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "http://tnm3u.live/icon/tamil/local/vinothtv.png",
+    "channel_name": "Vinoth TV",
+    "channel_url": "https://server.sscloud7.in/live/vinothtv/index.m3u8"
+  },
+  {
+    "channel_id": "C427",
+    "serial_no": "427",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2107466641312731367100838.png",
+    "channel_name": "RK Tv",
+    "channel_url": "https://sscloud7.com/hls/rktv.m3u8"
+  },
+  {
+    "channel_id": "C428",
+    "serial_no": "428",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2103486813971942041672387.png",
+    "channel_name": "JR Malar Tv",
+    "channel_url": "https://stream.sscloud7.in/live/malartv/index.m3u8"
+  },
+  {
+    "channel_id": "C429",
+    "serial_no": "429",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2104134158722555953030217.png",
+    "channel_name": "Malar Tv",
+    "channel_url": "https://sscloud7.com/live/malartv/index.m3u8"
+  },
+  {
+    "channel_id": "C430",
+    "serial_no": "430",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1400137414367413094452256.png",
+    "channel_name": "Visil Tv",
+    "channel_url": "https://stream.sscloud7.in/live/vishiltv1/index.m3u8"
+  },
+  {
+    "channel_id": "C431",
+    "serial_no": "431",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1400374822812587750471236.png",
+    "channel_name": "Mayuri Tv",
+    "channel_url": "https://server.sscloud7.in/mayuritvtvl/mayuritvtvl/index.m3u8"
+  },
+  {
+    "channel_id": "C432",
+    "serial_no": "432",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1400374822812587750471236.png",
+    "channel_name": "Visil 2 HD",
+    "channel_url": "https://stream.sscloud7.in/live/vishiltv2/index.m3u8"
+  },
+  {
+    "channel_id": "C433",
+    "serial_no": "433",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1401166436562038871865819.png",
+    "channel_name": "T24 Tv",
+    "channel_url": "https://live1.sscloud7.com/hls/t24tv.m3u8"
+  },
+  {
+    "channel_id": "C434",
+    "serial_no": "434",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1654089124960047479141676.png",
+    "channel_name": "Aasai Tv",
+    "channel_url": "https://server.sscloud7.in/aasaitv/aasaitv/index.m3u8"
+  },
+  {
+    "channel_id": "C435",
+    "serial_no": "435",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2106083859978573452578119.png",
+    "channel_name": "Anandham Tv",
+    "channel_url": "https://live1.sscloud7.com/live/anandhamtv/index.m3u8"
+  },
+  {
+    "channel_id": "C436",
+    "serial_no": "436",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2106393700205419245700865.png",
+    "channel_name": "Smiley Tv",
+    "channel_url": "https://live1.sscloud7.com/live/smileytv/index.m3u8"
+  },
+  {
+    "channel_id": "C437",
+    "serial_no": "437",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2108146971581320837669712.png",
+    "channel_name": "Isai Tv",
+    "channel_url": "http://server.sscloud7.in/isaihd/isaihd/index.m3u8"
+  },
+  {
+    "channel_id": "C438",
+    "serial_no": "438",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_210844247095261849834286.png",
+    "channel_name": "King Tv",
+    "channel_url": "http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8"
+  },
+  {
+    "channel_id": "C439",
+    "serial_no": "439",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2109332713009370044906407.png",
+    "channel_name": "Maran Tv",
+    "channel_url": "https://server.sscloud7.in/marantv/marantv/index.m3u8"
+  },
+  {
+    "channel_id": "C440",
+    "serial_no": "440",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2110057120112825406407419.png",
+    "channel_name": "Om Shakthi Tv",
+    "channel_url": "https://live1.sscloud7.com/hls/omsakthitv.m3u8"
+  },
+  {
+    "channel_id": "C441",
+    "serial_no": "441",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0902541690314621833418150.png",
+    "channel_name": "Surya HD Tv",
+    "channel_url": "https://live.sscloud7.in/live/suryatv/index.m3u8"
+  },
+  {
+    "channel_id": "C442",
+    "serial_no": "442",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vinayaga TV",
+    "channel_url": "https://stream.sscloud7.in/live/vinayagatv/index.m3u8"
+  },
+  {
+    "channel_id": "C443",
+    "serial_no": "443",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Thendral TV",
+    "channel_url": "https://sscloud7.com/live/thendraltv/index.m3u8"
+  },
+  {
+    "channel_id": "C444",
+    "serial_no": "444",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Bharathi Tv",
+    "channel_url": "https://server.sscloud7.in/live/bharathitv/index.m3u8"
+  },
+  {
+    "channel_id": "C445",
+    "serial_no": "445",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "A2A TV",
+    "channel_url": "https://live.sscloud7.in/live/a2atv/index.m3u8"
+  },
+  {
+    "channel_id": "C446",
+    "serial_no": "446",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "MP TV",
+    "channel_url": "https://stream.sscloud7.in/live/mptv/index.m3u8"
+  },
+  {
+    "channel_id": "C447",
+    "serial_no": "447",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Raghul Tv",
+    "channel_url": "http://alk.sscloud7.in:1935/live/raghultv/index.m3u8"
+  },
+  {
+    "channel_id": "C448",
+    "serial_no": "448",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg",
+    "channel_name": "Om Shakti TV",
+    "channel_url": "https://sscloud7.com/live/omsakthitv/index.m3u8"
+  },
+  {
+    "channel_id": "C449",
+    "serial_no": "449",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1735924218.PNG",
+    "channel_name": "Jith TV",
+    "channel_url": "https://sscloud7.com/live/jithtv/index.m3u8"
+  },
+  {
+    "channel_id": "C450",
+    "serial_no": "450",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/UVc6l0tUqHwyP90mPznDMc2A3jLzSVVx1-Ux-OB3vKd6wcaln3RPN1pbuqiUd10tRbc=w240-h480-rw",
+    "channel_name": "N TV",
+    "channel_url": "https://ntv.sscloud7.in/live/ntv/index.m3u8"
+  },
+  {
+    "channel_id": "C451",
+    "serial_no": "451",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/QFvbhmZx/image.png",
+    "channel_name": "THENDRAL TV",
+    "channel_url": "https://sscloud7.com/live/thendraltv/index.m3u8"
+  },
+  {
+    "channel_id": "C452",
+    "serial_no": "452",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/xcQOgfZJTtxaQJmjuHk_hvvZNzC-gm39Dn1wfPbZmC6G1RHEpgHJtSULkmRku-fY_O4=w240-h480-rw",
+    "channel_name": "Jayam Tv",
+    "channel_url": "https://live.sscloud7.in/live/jeyamtv/index.m3u8"
+  },
+  {
+    "channel_id": "C453",
+    "serial_no": "453",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/yrVwIJQTaTsuaum9wtFi-7nSFUqGV7nQhxPtoFIEPusxV34JjwfOYPDqShHFW3_izZo=w240-h480-rw",
+    "channel_name": "JJ NEWS",
+    "channel_url": "http://live.singamcloud.in/jjnewstamil/jjnewstamil/index.m3u8"
+  },
+  {
+    "channel_id": "C454",
+    "serial_no": "454",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tamil Tv Entertainment",
+    "channel_url": "https://stream.sscloud7.in/live/tamiltv/index.m3u8"
+  },
+  {
+    "channel_id": "C455",
+    "serial_no": "455",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/9AlykB4_g2oVcTcoC38HTQNYFlwpaCmC9WRqYGVn46BjBVl6dMk4-PseUDRWrXRY2ZQ=w240-h480-rw",
+    "channel_name": "Manisha Tv",
+    "channel_url": "https://stream.sscloud7.in/live/maishatv/index.m3u8"
+  },
+  {
+    "channel_id": "C456",
+    "serial_no": "456",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/15SYoZc_Ris_TrrUQcLNjWCXL4Py_xLruhVDVLCNlAewB5jUaT_YqGzyVaMDgmfyA3Jg=w240-h480-rw",
+    "channel_name": "subintv",
+    "channel_url": "https://stream.sscloud7.com/live/subintv/index.m3u8"
+  },
+  {
+    "channel_id": "C457",
+    "serial_no": "457",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/OZC3XALE6RuarHXPuMoaP89xjuuui3_gV_xuk-W4Va_3y4PW-oN8HiwLKhrFZbcWtw=w240-h480-rw",
+    "channel_name": "Deivaoli Tv",
+    "channel_url": "https://stream.sscloud7.in/live/deivaoli/index.m3u8"
+  },
+  {
+    "channel_id": "C458",
+    "serial_no": "458",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/1Yn0JC0g/Whats-App-Image-2025-03-31-at-17-44-53-04d463b2.jpg",
+    "channel_name": "MAX HD",
+    "channel_url": "https://live.maxtn.in/maxhd/maxhd/index.m3u8"
+  },
+  {
+    "channel_id": "C459",
+    "serial_no": "459",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/wNG1GF9Z/icon.jpg",
+    "channel_name": "MAX MOVIES HD",
+    "channel_url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
+  },
+  {
+    "channel_id": "C460",
+    "serial_no": "460",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/My6N3CMv/mhm.jpg",
+    "channel_name": "MAX MUSIC",
+    "channel_url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8"
+  },
+  {
+    "channel_id": "C461",
+    "serial_no": "461",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/jvKb71Xr/Whats-App-Image-2025-02-22-at-17-05-18-65d6fd32-removebg-preview.png",
+    "channel_name": "VANI TV HD",
+    "channel_url": "https://live.maxtn.in/vanitv/vanitv/index.m3u8"
+  },
+  {
+    "channel_id": "C462",
+    "serial_no": "462",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS161LApA9ludazwEnknn6ssA9iUrmGNUq8pZGYetXAjCVG5Aku",
+    "channel_name": "TDN HD",
+    "channel_url": "https://live.maxtn.in/tdn/tdn/index.m3u8"
+  },
+  {
+    "channel_id": "C463",
+    "serial_no": "463",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://yt3.googleusercontent.com/ytc/AIdro_lIAx74zTRkb-dhjFWAHZ6XhmHwSkoLZT_fxJbcCfrAlw=s900-c-k-c0x00ffffff-no-rj",
+    "channel_name": "SRI KANCHI",
+    "channel_url": "https://live.maxtn.in/srikanchi/kanchi/index.m3u8"
+  },
+  {
+    "channel_id": "C464",
+    "serial_no": "464",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEuJXA6mre58KZc5_EY2S9a8p7EwE4sv-mMaNCVDC-fJ0GVyJ8",
+    "channel_name": "THIRUKOIL",
+    "channel_url": "https://live.maxtn.in/thirukoil/thirukoil/index.m3u8"
+  },
+  {
+    "channel_id": "C465",
+    "serial_no": "465",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgj81haYLewhGLM0YmK_3RR-iAqev8X4ofUaBGkAzcrPYGv518",
+    "channel_name": "MOON TV",
+    "channel_url": "https://live.maxtn.in/moontv/moontv/index.m3u8"
+  },
+  {
+    "channel_id": "C466",
+    "serial_no": "466",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/mVzFDt49/ROJA-LOGO-HD-5.png",
+    "channel_name": "ROJA TV",
+    "channel_url": "https://rojatv.cloud/rojatv/rojatv/index.m3u8"
+  },
+  {
+    "channel_id": "C467",
+    "serial_no": "467",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/20krmQyV/new-logo.png",
+    "channel_name": "NAKKUBETTA TV",
+    "channel_url": "https://rojatv.cloud/nbtv/nbtv/index.m3u8"
+  },
+  {
+    "channel_id": "C468",
+    "serial_no": "468",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Subintv",
+    "channel_url": "https://stream.galaxyott.live/live/subintv/index.m3u8"
+  },
+  {
+    "channel_id": "C469",
+    "serial_no": "469",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://galaxyott.live/hls/sanaplus.m3u8"
+  },
+  {
+    "channel_id": "C470",
+    "serial_no": "470",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://galaxyott.live/hls/sanatv.m3u8"
+  },
+  {
+    "channel_id": "C471",
+    "serial_no": "471",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Utv",
+    "channel_url": "https://stream.galaxyott.live/live/utv/index.m3u8"
+  },
+  {
+    "channel_id": "C472",
+    "serial_no": "472",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Anandhamtv",
+    "channel_url": "https://stream.galaxyott.live/live/anandhamtv/index.m3u8"
+  },
+  {
+    "channel_id": "C473",
+    "serial_no": "473",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://galaxyott.live/hls/ntv.m3u8"
+  },
+  {
+    "channel_id": "C474",
+    "serial_no": "474",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Hls",
+    "channel_url": "https://galaxyott.live/hls/suryatv.m3u8"
+  },
+  {
+    "channel_id": "C475",
+    "serial_no": "475",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240307_1226146801845317456848677.png",
+    "channel_name": "Surya Tv",
+    "channel_url": "https://galaxyott.live//hls//suryatv.m3u8"
+  },
+  {
+    "channel_id": "C476",
+    "serial_no": "476",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ytimg.com/vi/F43tDj1P/hqdefault.jpg",
+    "channel_name": "SK TV",
+    "channel_url": "https://stream.galaxyott.live/live/sktv/index.m3u8"
+  },
+  {
+    "channel_id": "C477",
+    "serial_no": "477",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ytimg.com/vi/bCmmN3q2yLc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDI5IFohL6bhYEJp3DHZJVdoWFHSQ",
+    "channel_name": "U TV TRICHY",
+    "channel_url": "https://stream.galaxyott.live/live/utv/index.m3u8"
+  },
+  {
+    "channel_id": "C478",
+    "serial_no": "478",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/4RqT6SgT/image.png",
+    "channel_name": "SURIYAN TV",
+    "channel_url": "https://stream.galaxyott.live/live/suriyantv/index.m3u8"
+  },
+  {
+    "channel_id": "C479",
+    "serial_no": "479",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240315_2158174808496927671442016.png",
+    "channel_name": "R Tv",
+    "channel_url": "https://galaxyott.live/hls/rtv.m3u8"
+  },
+  {
+    "channel_id": "C480",
+    "serial_no": "480",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Ragamtv",
+    "channel_url": "rtmp://bmlive.net:1935/karnan/ragamtv"
+  },
+  {
+    "channel_id": "C481",
+    "serial_no": "481",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Advika",
+    "channel_url": "http://bmlive.net:8000/paulveernan/advika/bms.m3u8"
+  },
+  {
+    "channel_id": "C482",
+    "serial_no": "482",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sreesaravanaa",
+    "channel_url": "http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8"
+  },
+  {
+    "channel_id": "C483",
+    "serial_no": "483",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Gtv",
+    "channel_url": "http://bmlive.net:8000/gtv/gtv/bms.m3u8"
+  },
+  {
+    "channel_id": "C484",
+    "serial_no": "484",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Skytvhd",
+    "channel_url": "http://bmlive.net:8000/appletv/skytvhd/bms.m3u8"
+  },
+  {
+    "channel_id": "C485",
+    "serial_no": "485",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Milky",
+    "channel_url": "http://bmlive.net:8000/balaaravinth/milky/bms.m3u8"
+  },
+  {
+    "channel_id": "C486",
+    "serial_no": "486",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Udhayamtv",
+    "channel_url": "http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8"
+  },
+  {
+    "channel_id": "C487",
+    "serial_no": "487",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vasanthtvngl",
+    "channel_url": "http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8"
+  },
+  {
+    "channel_id": "C488",
+    "serial_no": "488",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Jayamtv",
+    "channel_url": "http://rtmp.bmlive.net:8000/bms/jayamtv/index.m3u8"
+  },
+  {
+    "channel_id": "C489",
+    "serial_no": "489",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Saitv",
+    "channel_url": "https://rtmp.bmlive.net/bms/saitv/index.m3u8"
+  },
+  {
+    "channel_id": "C490",
+    "serial_no": "490",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Varuntv",
+    "channel_url": "https://rtmp.bmlive.net/bms/varuntv/index.m3u8"
+  },
+  {
+    "channel_id": "C491",
+    "serial_no": "491",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Urchagamtv",
+    "channel_url": "https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8"
+  },
+  {
+    "channel_id": "C492",
+    "serial_no": "492",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Mystream",
+    "channel_url": "http://srnet.bmlive.net:1935/isaisaral/mystream/index.m3u8"
+  },
+  {
+    "channel_id": "C493",
+    "serial_no": "493",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Mystream",
+    "channel_url": "http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8"
+  },
+  {
+    "channel_id": "C494",
+    "serial_no": "494",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Pcn",
+    "channel_url": "https://rtmp.bmlive.net/bms/pcn/stream.m3u8"
+  },
+  {
+    "channel_id": "C495",
+    "serial_no": "495",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Emperortv",
+    "channel_url": "https://rtmp.bmlive.net/bms/emperortv/index.m3u8"
+  },
+  {
+    "channel_id": "C496",
+    "serial_no": "496",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Vanitvhd",
+    "channel_url": "http://bmlive.net:8000/maxmedia/vanitvhd/bms.m3u8"
+  },
+  {
+    "channel_id": "C497",
+    "serial_no": "497",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Ladheetv",
+    "channel_url": "http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8?hls_ctx=4u8jqsk5"
+  },
+  {
+    "channel_id": "C498",
+    "serial_no": "498",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Ambika",
+    "channel_url": "http://bmlive.net:8000/karnan/ambika/bms.m3u8"
+  },
+  {
+    "channel_id": "C499",
+    "serial_no": "499",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Karthimusic",
+    "channel_url": "http://bmlive.net:8000/karnan/karthimusic/bms.m3u8"
+  },
+  {
+    "channel_id": "C500",
+    "serial_no": "500",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Kingtvlive",
+    "channel_url": "http://bmlive.net:8000/kingtvhd/kingtvlive/bms.m3u8"
+  },
+  {
+    "channel_id": "C501",
+    "serial_no": "501",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Sktvlive",
+    "channel_url": "http://bmlive.net:8000/SKTelevision/sktvlive/bms.m3u8?hls_ctx=gk4q43za"
+  },
+  {
+    "channel_id": "C502",
+    "serial_no": "502",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Maxmovies",
+    "channel_url": "http://bmlive.net:8000/maxmedia/maxmovies/bms.m3u8"
+  },
+  {
+    "channel_id": "C503",
+    "serial_no": "503",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Anbutvhd",
+    "channel_url": "http://bmlive.net:8000/bms/anbutvhd/bms.m3u8"
+  },
+  {
+    "channel_id": "C504",
+    "serial_no": "504",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/whpDXpp1/ctn-removebg-preview.png",
+    "channel_name": "CTN",
+    "channel_url": "https://rtmp.bmlive.net/ctn/ctntn/index.m3u8"
+  },
+  {
+    "channel_id": "C505",
+    "serial_no": "505",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Leotv",
+    "channel_url": "https://stream.iplive.xyz/hls/leotv/index.m3u8"
+  },
+  {
+    "channel_id": "C506",
+    "serial_no": "506",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Rightschannelhd",
+    "channel_url": "https://stream.iplive.xyz/rightstv/rightschannelhd/index.m3u8"
+  },
+  {
+    "channel_id": "C507",
+    "serial_no": "507",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Mmtvhd",
+    "channel_url": "https://stream.iplive.xyz/mmtvtc/mmtvhd/index.m3u8"
+  },
+  {
+    "channel_id": "C508",
+    "serial_no": "508",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Appletv",
+    "channel_url": "https://stream.iplive.xyz/appletvhd/appletv/index.m3u8"
+  },
+  {
+    "channel_id": "C509",
+    "serial_no": "509",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Aramtvhd",
+    "channel_url": "https://stream.iplive.xyz/aramtv/aramtvhd/index.m3u8"
+  },
+  {
+    "channel_id": "C510",
+    "serial_no": "510",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Duraitv",
+    "channel_url": "https://stream.iplive.xyz/hls/duraitv/index.m3u8"
+  },
+  {
+    "channel_id": "C511",
+    "serial_no": "511",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Mtvhd",
+    "channel_url": "https://stream.iplive.xyz/mtv/mtvhd/index.m3u8?token=zB3NfXUXshSpJ3"
+  },
+  {
+    "channel_id": "C512",
+    "serial_no": "512",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/YKWPRSw/amtv-copy-removebg-preview.png",
+    "channel_name": "AM TV",
+    "channel_url": "https://stream.iplive.xyz/amtv/amtv/index.m3u8"
+  },
+  {
+    "channel_id": "C513",
+    "serial_no": "513",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/wrpRMN4W/01.png",
+    "channel_name": "STV PONDICHERRY",
+    "channel_url": "https://stream.iplive.xyz/silversatmedia/livetv/index.m3u8"
+  },
+  {
+    "channel_id": "C514",
+    "serial_no": "514",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/NqS2kvGVCXHVg9svRxhvXAguDWOt7bx0R7b4NU20bKw-gO4v90LZ97egHkb7JIZtHzPC=w240-h480-rw",
+    "channel_name": "Nqs2Kvgvcxhvg9Svrxhvxagudwot7Bx0R7B4Nu20Bkw Go4V90Lz97Eghkb7Jizthzpc=W240 H480 Rw",
+    "channel_url": "https://stream.iplive.xyz/limetv/limetvchannel/index.ll.m3u8"
+  },
+  {
+    "channel_id": "C515",
+    "serial_no": "515",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "http://tnm3u.live/icon/tamil/local/sukrishwartv.png",
+    "channel_name": "Sukrishwar TV",
+    "channel_url": "http://brightmeltech.in/sukrishwaratv/sukrishwaratv.m3u8"
+  },
+  {
+    "channel_id": "C516",
+    "serial_no": "516",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257505016823489526479014.png",
+    "channel_name": "20240718 0257505016823489526479014",
+    "channel_url": "http://brightmeltech.in/gsjktv/gsjktv.m3u8"
+  },
+  {
+    "channel_id": "C517",
+    "serial_no": "517",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257158735407588855150609.png",
+    "channel_name": "20240718 0257158735407588855150609",
+    "channel_url": "http://brightmeltech.in/rajatv/rajatv.m3u8"
+  },
+  {
+    "channel_id": "C518",
+    "serial_no": "518",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/ZM9c5byu9C9Xv7oeGbIyVgDQsDtx5L-gNIKpfYeomlCRDoIAjOzOhp67wP2Ggu7JvAY=w240-h480-rw",
+    "channel_name": "Zm9C5Byu9C9Xv7Oegbiyvgdqsdtx5L Gnikpfyeomlcrdoiajozohp67Wp2Ggu7Jvay=W240 H480 Rw",
+    "channel_url": "http://brightmeltech.in/ramyatv/ramyatv.m3u8"
+  },
+  {
+    "channel_id": "C519",
+    "serial_no": "519",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/jkxkBCP1/image.png",
+    "channel_name": "K CHANNEL",
+    "channel_url": "https://brightmeltech.in/kchannel/kchannel.m3u8"
+  },
+  {
+    "channel_id": "C520",
+    "serial_no": "520",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240324_2046328798385470697522137.png",
+    "channel_name": "K Channel",
+    "channel_url": "http://brightmeltech.in/kchannel/kchannel.m3u8"
+  },
+  {
+    "channel_id": "C521",
+    "serial_no": "521",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/4goLfLzg8iYbmao7ZPD_09csfjN8rOY2fi5evhpWloVv5Ah21vNAWp4PRGtFHzzjfg=s124-rw",
+    "channel_name": "Subi TV",
+    "channel_url": "http://ipalive.in/subitv/subitv.m3u8"
+  },
+  {
+    "channel_id": "C522",
+    "serial_no": "522",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Subitv",
+    "channel_url": "http://ipalive.in/subitv/subitv.m3u8"
+  },
+  {
+    "channel_id": "C523",
+    "serial_no": "523",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Jayhls",
+    "channel_url": "https://ipalive.in/jayhls/live.m3u8"
+  },
+  {
+    "channel_id": "C524",
+    "serial_no": "524",
+    "tvg_language": "Tamil",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Joytv",
+    "channel_url": "rtmp://joy.ipalive.in/live/joytv"
+  },
+  {
+    "channel_id": "C525",
+    "serial_no": "525",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Thai TV",
+    "channel_url": "https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8"
+  },
+  {
+    "channel_id": "C526",
+    "serial_no": "526",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "AK TV HD",
+    "channel_url": "https://server2.iptelevision.in/aktvhd.m3u8"
+  },
+  {
+    "channel_id": "C527",
+    "serial_no": "527",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tamil Aaram TV",
+    "channel_url": "https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8"
+  },
+  {
+    "channel_id": "C528",
+    "serial_no": "528",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Tiger TV",
+    "channel_url": "https://iptv7.iptv.pics/hls/vktigr_src/index.m3u8"
+  },
+  {
+    "channel_id": "C529",
+    "serial_no": "529",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240712_1229141764311506036112795.png",
+    "channel_name": "Paavai Tv",
+    "channel_url": "http://paavaitv.sritv.co.in:1935/paavaitv/live/sri_network_google_firebase_bandwidth_hlsplay.m3u8"
+  },
+  {
+    "channel_id": "C530",
+    "serial_no": "530",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/04/20240402_0244113518845900804817006.png",
+    "channel_name": "20240402 0244113518845900804817006",
+    "channel_url": "https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8"
+  },
+  {
+    "channel_id": "C531",
+    "serial_no": "531",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240331_0037217658317852544226240.png",
+    "channel_name": "Southern Tv",
+    "channel_url": "https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8"
+  },
+  {
+    "channel_id": "C532",
+    "serial_no": "532",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240316_0917083041332261609729794.png",
+    "channel_name": "Jayam Tv",
+    "channel_url": "https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8"
+  },
+  {
+    "channel_id": "C533",
+    "serial_no": "533",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/03/20240307_2322551345866312332877105.png",
+    "channel_name": "PCN Channel",
+    "channel_url": "http://103.98.62.134:8080/gtv/gtv.m3u8"
+  },
+  {
+    "channel_id": "C534",
+    "serial_no": "534",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/04/20240409_0824211724653237984049786.png",
+    "channel_name": "Royal Tv",
+    "channel_url": "https://streamspace.live/hls/jptv/livestream.m3u8"
+  },
+  {
+    "channel_id": "C535",
+    "serial_no": "535",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0641135483463871761974250.png",
+    "channel_name": "RCN Tv",
+    "channel_url": "https://live.we2live.in/rcntv/rcntv/playlist.m3u8"
+  },
+  {
+    "channel_id": "C536",
+    "serial_no": "536",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/tPsBQWky/logo-png.png",
+    "channel_name": "OLI TV",
+    "channel_url": "https://live.olidigital.in/olitv/olitv/index.m3u8"
+  },
+  {
+    "channel_id": "C537",
+    "serial_no": "537",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5xAahSzQWQzOhdiqTOzNABPyNseHbFJPiQ&s",
+    "channel_name": "WATHANAM TV",
+    "channel_url": "https://stream.wathanamtv.com/wathanamtv/wathanamtv/index.m3u8"
+  },
+  {
+    "channel_id": "C538",
+    "serial_no": "538",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/r3O6qFAE2cb9uEvway7yweXsdn3HUzJ9LlxkvgT2nhjFYW3aTr3fcrtfkpTOq7lncvQr",
+    "channel_name": "Tamil pirai TV",
+    "channel_url": "https://server.iptelevisiontv.com/hls/tamilpr.m3u8"
+  },
+  {
+    "channel_id": "C539",
+    "serial_no": "539",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://play-lh.googleusercontent.com/6fWqtRlywXirpl4cUwbjCl1vo86lOznuX6VZgG88MjMQvuwEa3OdQUG05njBjuCuhg=w240-h480-rw",
+    "channel_name": "Rock TV",
+    "channel_url": "https://apis.avmediawork.in/tvhls/rocktv.m3u8"
+  },
+  {
+    "channel_id": "C540",
+    "serial_no": "540",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.imgur.com/etr1k08.png",
+    "channel_name": "Vanavil TV",
+    "channel_url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
+  },
+  {
+    "channel_id": "C541",
+    "serial_no": "541",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/M5Mq8zG1/image.png",
+    "channel_name": "TAMIL OLI TV",
+    "channel_url": "https://view.rcserver.in/tmp_hls6/senthamiltv/index.m3u8"
+  },
+  {
+    "channel_id": "C542",
+    "serial_no": "542",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/G3vhMrLF/Whats-App-Image-2025-03-10-at-19-51-33-f325602b-removebg-preview.png",
+    "channel_name": "IZZATH TV",
+    "channel_url": "https://live.olidigital.in/izzathtv/izzathtv/index.m3u8"
+  },
+  {
+    "channel_id": "C543",
+    "serial_no": "543",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "https://i.ibb.co/v6v98W7H/Untitled.png",
+    "channel_name": "EE TV",
+    "channel_url": "https://eu.streamjo.com/eetlive/eettv.m3u8"
+  },
+  {
+    "channel_id": "C544",
+    "serial_no": "544",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "Firetamil",
+    "channel_url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8"
+  },
+  {
+    "channel_id": "C545",
+    "serial_no": "545",
+    "tvg_language": "",
+    "channel_genre": "Local Channel Tamil",
+    "channel_logo": "",
+    "channel_name": "jn vision tv",
+    "channel_url": "https://462dx4mlqj3o-hls-live.wmncdn.net/jnvisiontv/0e1fd802947a734b3af7787436f11588.sdp/playlist.m3u8"
+  },
+  {
     "channel_id": "479896",
     "serial_no": "1",
     "tvg_language": "Hindi",
