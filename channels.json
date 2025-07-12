@@ -14794,5 +14794,14 @@
     "channel_logo": "https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/448350419.jpeg",
     "channel_name": "Hindi Hits HD",
     "channel_url": "http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8"
+  },
+  {
+    "channel_id": "50430",
+    "serial_no": "386",
+    "tvg_language": "",
+    "channel_genre": "urdu",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "madani",
+    "channel_url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/1.m3u8"
   }
 ]
