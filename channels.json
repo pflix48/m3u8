@@ -213,7 +213,7 @@
     "channel_genre": "SLIV | Sporm3u8",
     "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png",
     "channel_name": "SONY TEN 4 HD",
-    "channel_url": "https://dai.google.com/ssai/event/x4LxWUcVSIchannel_idaq1VCM7DSA/master.m3u8"
+    "channel_url": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8"
   },
   {
     "channel_id": "89",
@@ -222,7 +222,7 @@
     "channel_genre": "SLIV | Sporm3u8",
     "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten4_HD_Logo_CLR.png",
     "channel_name": "SONY TEN 4",
-    "channel_url": "https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8"
+    "channel_url": "https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8"
   },
   {
     "channel_id": "90",
@@ -231,7 +231,7 @@
     "channel_genre": "SLIV | Sporm3u8",
     "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png",
     "channel_name": "SONY TEN 5 HD",
-    "channel_url": "https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8"
+    "channel_url": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8"
   },
   {
     "channel_id": "91",
@@ -240,7 +240,7 @@
     "channel_genre": "SLIV | Sporm3u8",
     "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_Sporm3u8Ten5_HD_Logo_CLR.png",
     "channel_name": "SONY TEN 5",
-    "channel_url": "https://dai.google.com/ssai/event/S-q8I27RRzmkb-Ochannel_idoaiAw/master.m3u8"
+    "channel_url": "https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8"
   },
   {
     "channel_id": "93",
