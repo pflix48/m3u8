@@ -14803,5 +14803,302 @@
     "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
     "channel_name": "madani",
     "channel_url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
+  },
+  {
+    "channel_id": "ts52",
+    "serial_no": "1",
+    "tvg_language": "",
+    "channel_genre": "Entertainment",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts52"
+  },
+  {
+    "channel_id": "ts543",
+    "serial_no": "2",
+    "tvg_language": "",
+    "channel_genre": "Entertainment",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts543"
+  },
+  {
+    "channel_id": "ts438",
+    "serial_no": "3",
+    "tvg_language": "",
+    "channel_genre": "Entertainment",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Rishtey",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts438"
+  },
+  {
+    "channel_id": "ts187",
+    "serial_no": "4",
+    "tvg_language": "",
+    "channel_genre": "Entertainment",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Infinity HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts187"
+  },
+  {
+    "channel_id": "ts544",
+    "serial_no": "5",
+    "tvg_language": "",
+    "channel_genre": "Entertainment",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Infinity",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts544"
+  },
+  {
+    "channel_id": "ts61",
+    "serial_no": "6",
+    "tvg_language": "",
+    "channel_genre": "Movies",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Cineplex HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts61"
+  },
+  {
+    "channel_id": "ts53",
+    "serial_no": "7",
+    "tvg_language": "",
+    "channel_genre": "Movies",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Cineplex",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts53"
+  },
+  {
+    "channel_id": "ts1025",
+    "serial_no": "8",
+    "tvg_language": "",
+    "channel_genre": "Movies",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Cineplex Superhits",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts1025"
+  },
+  {
+    "channel_id": "ts1000",
+    "serial_no": "9",
+    "tvg_language": "",
+    "channel_genre": "Movies",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Cineplex Bollywood",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts1000"
+  },
+  {
+    "channel_id": "ts1033",
+    "serial_no": "10",
+    "tvg_language": "",
+    "channel_genre": "Sports",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Star Sports 2 Hindi HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts1033"
+  },
+  {
+    "channel_id": "ts980",
+    "serial_no": "11",
+    "tvg_language": "",
+    "channel_genre": "Sports",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Star Sports 2 Hindi",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts980"
+  },
+  {
+    "channel_id": "ts1186",
+    "serial_no": "12",
+    "tvg_language": "",
+    "channel_genre": "Sports",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Star Sports 2 Telugu",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts1186"
+  },
+  {
+    "channel_id": "ts1187",
+    "serial_no": "13",
+    "tvg_language": "",
+    "channel_genre": "Sports",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Star Sports 2 Tamil",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts1187"
+  },
+  {
+    "channel_id": "ts433",
+    "serial_no": "14",
+    "tvg_language": "",
+    "channel_genre": "Animation",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Nick HD+",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts433"
+  },
+  {
+    "channel_id": "ts138",
+    "serial_no": "15",
+    "tvg_language": "",
+    "channel_genre": "Animation",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Nick",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts138"
+  },
+  {
+    "channel_id": "ts127",
+    "serial_no": "16",
+    "tvg_language": "",
+    "channel_genre": "Animation",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Sonic",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts127"
+  },
+  {
+    "channel_id": "ts118",
+    "serial_no": "17",
+    "tvg_language": "",
+    "channel_genre": "Animation",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Nick Jr",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts118"
+  },
+  {
+    "channel_id": "ts406",
+    "serial_no": "18",
+    "tvg_language": "",
+    "channel_genre": "Music",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "MTV HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts406"
+  },
+  {
+    "channel_id": "ts103",
+    "serial_no": "19",
+    "tvg_language": "",
+    "channel_genre": "Music",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "MTV",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts103"
+  },
+  {
+    "channel_id": "ts0",
+    "serial_no": "20",
+    "tvg_language": "",
+    "channel_genre": "Music",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Clubbing TV",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts0"
+  },
+  {
+    "channel_id": "ts308",
+    "serial_no": "21",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Marathi HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts308"
+  },
+  {
+    "channel_id": "ts134",
+    "serial_no": "22",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Marathi",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts134"
+  },
+  {
+    "channel_id": "ts305",
+    "serial_no": "23",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Bangla HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts305"
+  },
+  {
+    "channel_id": "ts26",
+    "serial_no": "24",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Bangla",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts26"
+  },
+  {
+    "channel_id": "ts896",
+    "serial_no": "25",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Bangla Cinema",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts896"
+  },
+  {
+    "channel_id": "ts674",
+    "serial_no": "26",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Tamil HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts674"
+  },
+  {
+    "channel_id": "ts418",
+    "serial_no": "27",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Tamil",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts418"
+  },
+  {
+    "channel_id": "ts612",
+    "serial_no": "28",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Kannada HD",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts612"
+  },
+  {
+    "channel_id": "ts108",
+    "serial_no": "29",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Kannada",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts108"
+  },
+  {
+    "channel_id": "ts533",
+    "serial_no": "30",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors SUPER",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts533"
+  },
+  {
+    "channel_id": "ts667",
+    "serial_no": "31",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Kannada Cinema",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts667"
+  },
+  {
+    "channel_id": "ts107",
+    "serial_no": "32",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Gujarati",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts107"
+  },
+  {
+    "channel_id": "ts692",
+    "serial_no": "33",
+    "tvg_language": "",
+    "channel_genre": "Regional",
+    "channel_logo": "https://i.ibb.co/DDJzzwwt/Background.jpg",
+    "channel_name": "Colors Gujarati Cinema",
+    "channel_url": "https://playflix.icu/mahesh/voot/play.php?id=ts692"
   }
 ]
